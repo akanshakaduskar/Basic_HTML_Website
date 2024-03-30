@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="style.css">
+    <title>Contact</title>
+</head>
+
+<body>
+    <header>
+        <nav id="navbar">
+          <ul id="mybar">
+            <li class="first1"><a href="Home.html">Home</a></li>
+            <li class="first2"><a href="About.html">About</a></li>
+            <li class="first3"><a href="Contact.html">Contact</a></li>
+            <div id="searchbox">
+              <input type="text" id="searchbar" placeholder="Type here to search">
+            </div>
+            <div id="image">
+              <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSnfa06AAuBenwUmjMYGh6JpbPdRuexvUrvw&usqp=CAU"
+                id="yess">
+            </div>
+            <button id="login">
+                <a href="login.html">Login</a>
+              </button>
+              <button id="signup">
+                <a href="Register.html">Sign Up</a>
+              </button>
+          </ul>
+        </nav>
+      </header>
+    <hr />
+    <main>
+        <section>
+            <h1>Contact Us</h1>
+            <form action="#" method="post">
+                <label for="name">Name:</label><br />
+                <input type="text" id="name" name="name" required /><br />
+                <label for="email">Email:</label><br />
+                <input type="email" id="email" name="email" required /><br />
+                <label for="subject">Subject:</label><br />
+                <input type="text" id="subject" name="subject" required /><br />
+                <label for="message">Message:</label><br />
+                <textarea id="message" name="message" rows="4" cols="50" required></textarea><br />
+                <label for="phone">Phone:</label><br />
+                <input type="tel" id="phone" name="phone" pattern="[0-9]{3}-[0-9]{3}-[0-9]{4}"
+                    placeholder="123-456-7890" required /><br /><br />
+
+                <input type="submit" value="Submit" />
+            </form>
+        </section>
+
+        <section>
+            <h2>Company Address</h2>
+            <address>
+                123 Main St,<br />
+                City,<br />
+                Country<br />
+                ZIP Code: 12345
+            </address>
+        </section>
+    </main>
+    <hr />
+    <footer>
+        <p>&copy; 2024 Our IT Solutions Website. All rights reserved.</p>
+    </footer>
+</body>
+
+</html>

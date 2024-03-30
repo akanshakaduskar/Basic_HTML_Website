@@ -1,0 +1,153 @@
+/* * {
+    margin: 0px;
+    padding: 20;
+} */
+img {
+    max-width: 100%;
+    height: auto;
+}
+
+h1{
+    font-size: 2.5em;   
+    color: #3c97ba;
+}
+
+a{
+    color:whitesmoke;
+    text-decoration: none;
+}
+
+#navbar {
+    background-color:  #3c97ba;
+    height: 50px;
+    /* border-radius: 20px; */
+    /* margin-top: 3px; */
+    /* margin-left: 12px; */
+    /* width: 98%; */
+}
+
+#mybar {
+    padding-top: 8px;
+    list-style-type: none;
+    color: rgb(249, 240, 240);
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.first1 {
+    color: #ffffff;
+    display: inline;
+    /* margin-left: 3px; */
+}
+
+.first1:hover {
+    background-color: rgb(4, 38, 4);
+    cursor: pointer;
+}
+
+.first2 {
+    display: inline;
+    margin-left: 30px;
+}
+
+.first2:hover {
+    background-color: rgb(4, 38, 4);
+    cursor: pointer;
+}
+
+.first3 {
+    display: inline;
+    margin-left: 40px;
+}
+
+.first3:hover {
+    background-color: rgb(4, 38, 4);
+    cursor: pointer;
+}
+
+.first4 {
+    display: inline;
+    margin-left: 40px;
+}
+
+.first4:hover {
+    background-color: rgb(4, 38, 4);
+    cursor: pointer;
+    /* color: lightgray;
+    cursor: pointer; */
+}
+
+#searchbox {
+    display: inline;
+    margin-left: 650px;
+}
+
+#searchbar {
+    padding: 6px;
+    text-align: center;
+    font-size: 17px;
+    border-radius: 30px;
+    border-style: double;
+    border-color: black;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+#image {
+    display: inline;
+    margin-left: 7px;
+}
+
+#yess {
+    width: 20px;
+    height: 20px;
+}
+
+#signup {
+    /* margin-left: 30px; */
+    height: 30px;
+    width: 75px;
+    border-radius: 10px;
+    border-style: double;
+    /* float: right;   */
+    background-color:  rgb(59, 166, 61);
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 17px;
+}
+
+#signup:hover {
+    cursor: pointer;
+    background-color: rgb(4, 38, 4);
+}
+
+#login {
+    margin-left: 80px;
+    height: 30px;
+    width: 70px;
+    border-radius: 10px;
+    border-style: double;
+    background-color: rgb(59, 166, 61);
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 19px;
+}
+
+#login:hover {
+    background-color: rgb(4, 38, 4);
+    cursor: pointer;
+}
+
+th, td {
+    padding: 15px;
+    text-align: left;
+}
+
+th:hover {background-color: rgb(118, 230, 135);} 
+
+tr:hover {background-color: rgb(216, 251, 251);} 
+
+.login-box{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    align-items: center;
+
+}
