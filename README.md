@@ -1,7 +1,5 @@
 <h1>My Website</h1>
 <p>This repository contains the source code for my personal website, which is built using HTML, CSS, and JavaScript.</p>
-![Snap_About](https://github.com/akanshakaduskar/Basic_HTML_Website/assets/156501496/b478887f-f6f5-40ba-a16b-b17ffce6ea3d)
-
 
 <h2>Technologies Used</h2>
 <p>The website is built using the following technologies:</p>
