@@ -13,17 +13,19 @@
 </ui>
 
 <h2>Overview</h2>
-![Snap_About](https://github.com/akanshakaduskar/Basic_HTML_Website/assets/156501496/af958db8-1b5a-4eea-9703-9e6a199e8d17)
-<br>
-![Snap_Contact](https://github.com/akanshakaduskar/Basic_HTML_Website/assets/156501496/372ab207-ccf3-46b7-876c-b656ae01300a)
-<br>
-![Snap_Home](https://github.com/akanshakaduskar/Basic_HTML_Website/assets/156501496/6bbca139-dc75-4c20-96d1-4f0b51a1f239)
-<br>
-![Snap_LOGIN](https://github.com/akanshakaduskar/Basic_HTML_Website/assets/156501496/0adc6b3c-73b3-4beb-bd00-5f5de2a6e0e1)
-<br>
-![Snap_Signup](https://github.com/akanshakaduskar/Basic_HTML_Website/assets/156501496/f98cba2a-c085-429f-9efa-6f9eeac6b702)
-<br>
-![Snap_Forgot](https://github.com/akanshakaduskar/Basic_HTML_Website/assets/156501496/76b52a26-fc31-451b-bc92-2df5e72525f0)
+
+![Snap_Home](https://github.com/akanshakaduskar/Basic_HTML_Website/assets/156501496/eece9057-edba-485c-a8c7-ac15c04d9d49)
+
+![Snap_About](https://github.com/akanshakaduskar/Basic_HTML_Website/assets/156501496/53cbdac0-cb6d-4a45-b41a-2f458fe216a5)
+
+![Snap_Contact](https://github.com/akanshakaduskar/Basic_HTML_Website/assets/156501496/292999ae-cce4-43b4-b6e2-e80db2623c9e)
+
+![Snap_LOGIN](https://github.com/akanshakaduskar/Basic_HTML_Website/assets/156501496/9fc0dd21-7633-42ff-8542-36364b6755df)
+
+![Snap_Signup](https://github.com/akanshakaduskar/Basic_HTML_Website/assets/156501496/03d5b462-c799-4b18-a3fe-8879249d2104)
+
+![Snap_Forgot](https://github.com/akanshakaduskar/Basic_HTML_Website/assets/156501496/860c672a-a31e-4fe6-a03a-3732f81d2b00)
+
 
 <h2>Contact</h2>
 <p>If you have any questions or feedback, please contact akanshakaduskar@gmail.com.</p>
